@@ -1,10 +1,8 @@
 <div align="center">
-  <a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/">
-    <img src="./assets/ai-probe-profile-hero.gif" width="100%" alt="Animated technical banner: an AI probe descends to scan a glowing neural core while data particles travel through circuit paths, then the probe rises for a seamless loop." />
-  </a>
+  <img src="./assets/ai-probe-profile-hero.gif" width="100%" alt="Looping animation: an AI probe descends to scan a glowing neural core as data particles flow along circuit paths, then rises for a seamless loop." />
 </div>
 
-<p align="center"><a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/"><strong>OPEN THE INTERACTIVE PORTFOLIO ↗</strong></a></p>
+<p align="center"><sub>PROBE DESCENT · NEURAL CORE SCAN · DATA FLOW</sub></p>
 
 <h2 align="center">Hi, I'm Akhil 👋</h2>
 
@@ -44,6 +42,7 @@
 
 ### Find me
 
+- 🌀 [Interactive 3D portfolio](https://akhil-2005-hub.github.io/Akhil-2005-hub/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akhil-r-132b26409)
 - 🧑‍💻 [GitHub repositories](https://github.com/Akhil-2005-hub?tab=repositories)
 
