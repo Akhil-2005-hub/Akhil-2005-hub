@@ -2,6 +2,10 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="Akhil R — AI and Data Science student building Android, web, and system tools" />
 </div>
 
+<div align="center">
+  <img src="./assets/ai-probe-loop.gif" width="76%" alt="An AI probe descends to activate a holographic neural core, then rises as cyan and orange data particles flow through the lab." />
+</div>
+
 <h2 align="center">Hi, I'm Akhil 👋</h2>
 
 <p align="center">B.Tech student in Artificial Intelligence and Data Science, interested in building practical software and learning through hands-on projects.</p>
