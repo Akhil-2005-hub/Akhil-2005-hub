@@ -1,14 +1,14 @@
 <div align="center">
   <a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/">
-    <img src="./assets/profile-banner.svg" width="100%" alt="Open Akhil R's interactive AI and Data Science portfolio" />
+    <img src="./assets/ai-probe-profile-hero.gif" width="100%" alt="Animated technical banner: an AI probe descends to scan a glowing neural core while data particles travel through circuit paths, then the probe rises for a seamless loop." />
   </a>
 </div>
 
-<div align="center">
-  <img src="./assets/ai-probe-loop.gif" width="70%" alt="An AI probe descends to activate a holographic neural core, then rises as data particles flow through a dark engineering lab." />
-</div>
-
-<p align="center"><a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/"><strong>Explore the interactive portfolio →</strong></a></p>
+<p align="center">
+  <a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/"><strong>OPEN THE INTERACTIVE PORTFOLIO ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="#featured-projects">EXPLORE THE PROJECTS ↓</a>
+</p>
 
 <h2 align="center">Hi, I'm Akhil 👋</h2>
 
