@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Akhil R — AI and Data Science student building Android, web, and system tools" />
+  <a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/">
+    <img src="./assets/profile-banner.svg" width="100%" alt="Open Akhil R's interactive AI and Data Science portfolio" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="./assets/ai-probe-loop.gif" width="76%" alt="An AI probe descends to activate a holographic neural core, then rises as cyan and orange data particles flow through the lab." />
+  <img src="./assets/ai-probe-loop.gif" width="70%" alt="An AI probe descends to activate a holographic neural core, then rises as data particles flow through a dark engineering lab." />
 </div>
 
 <p align="center"><a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/"><strong>Explore the interactive portfolio →</strong></a></p>

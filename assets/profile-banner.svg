@@ -1,30 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Akhil R — developer profile banner</title>
-  <desc id="desc">Artificial Intelligence and Data Science student building Android, web, and system tools.</desc>
+  <title id="title">Akhil R — AI and Data Science</title>
+  <desc id="desc">Dark navy engineering interface with a cyan neural core and descending AI probe.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="0.55" stop-color="#123b5d"/>
-      <stop offset="1" stop-color="#087e8b"/>
+      <stop offset="0" stop-color="#07111c"/>
+      <stop offset=".62" stop-color="#0b1c29"/>
+      <stop offset="1" stop-color="#092536"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#5eead4"/>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#1e9fbe" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#07111c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#65e6f7"/>
+      <stop offset="1" stop-color="#439bff"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#c7f9ff" stroke-opacity=".07" stroke-width="1"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#9edbea" stroke-opacity=".055" stroke-width="1"/>
     </pattern>
   </defs>
-  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="280" rx="24" fill="url(#grid)"/>
-  <circle cx="1030" cy="140" r="108" fill="none" stroke="#67e8f9" stroke-opacity=".18" stroke-width="2"/>
-  <circle cx="1030" cy="140" r="78" fill="none" stroke="#67e8f9" stroke-opacity=".24" stroke-width="2"/>
-  <circle cx="1030" cy="140" r="48" fill="#38bdf8" fill-opacity=".12" stroke="#a5f3fc" stroke-opacity=".6" stroke-width="2"/>
-  <path d="M900 140h260M1030 10v260M939 49l182 182M1121 49 939 231" stroke="#a5f3fc" stroke-opacity=".14" stroke-width="1"/>
-  <circle cx="1030" cy="140" r="8" fill="#5eead4"/>
-  <rect x="72" y="66" width="5" height="145" rx="3" fill="url(#line)"/>
-  <text x="104" y="126" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">AKHIL R</text>
-  <text x="106" y="164" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="2">AI &amp; DATA SCIENCE STUDENT</text>
-  <text x="106" y="201" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="19">Building Android apps · Web interfaces · System tools</text>
-  <path d="M104 226h250" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <ellipse cx="950" cy="148" rx="260" ry="200" fill="url(#aura)"/>
+  <path d="M82 63v151" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <text x="111" y="117" fill="#edf6fa" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="1">AKHIL R.</text>
+  <text x="113" y="153" fill="#72def1" font-family="Consolas,monospace" font-size="15" letter-spacing="2">B.TECH · ARTIFICIAL INTELLIGENCE &amp; DATA SCIENCE</text>
+  <text x="113" y="188" fill="#a8bdc7" font-family="Segoe UI,Arial,sans-serif" font-size="17">Android apps · Web interfaces · System tools</text>
+  <path d="M112 213h205" stroke="#ff9d5a" stroke-opacity=".72" stroke-width="2"/>
+  <g fill="none" stroke="#63d8f0">
+    <ellipse cx="946" cy="158" rx="154" ry="48" stroke-opacity=".34"/>
+    <ellipse cx="946" cy="158" rx="126" ry="39" stroke-opacity=".24" transform="rotate(-19 946 158)"/>
+    <ellipse cx="946" cy="158" rx="110" ry="34" stroke-opacity=".2" transform="rotate(22 946 158)"/>
+    <circle cx="946" cy="158" r="67" stroke-opacity=".2"/>
+    <circle cx="946" cy="158" r="43" stroke-opacity=".36"/>
+    <path d="M829 158h234M946 44v215M865 77l162 162M1027 77 865 239" stroke-opacity=".16" stroke-width="1"/>
+    <path d="M946 12v66" stroke-opacity=".55" stroke-width="1.5"/>
+  </g>
+  <g stroke="#75e5f8" stroke-width="1.5">
+    <rect x="928" y="62" width="36" height="24" rx="8" fill="#102b38"/>
+    <path d="M934 86v8m24-8v8"/>
+  </g>
+  <circle cx="946" cy="103" r="4" fill="#ff9d5a"/>
+  <circle cx="946" cy="158" r="7" fill="#74edf6"/>
+  <circle cx="866" cy="145" r="3" fill="#8eefff"/>
+  <circle cx="1008" cy="177" r="3" fill="#ffad6c"/>
+  <circle cx="988" cy="116" r="2.5" fill="#8eefff"/>
+  <text x="1090" y="246" text-anchor="end" fill="#65838f" font-family="Consolas,monospace" font-size="9" letter-spacing="2">AI PROBE / 001</text>
 </svg>
+
