@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Akhil R — developer profile banner</title>
+  <desc id="desc">Artificial Intelligence and Data Science student building Android, web, and system tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#123b5d"/>
+      <stop offset="1" stop-color="#087e8b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#c7f9ff" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="140" r="108" fill="none" stroke="#67e8f9" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1030" cy="140" r="78" fill="none" stroke="#67e8f9" stroke-opacity=".24" stroke-width="2"/>
+  <circle cx="1030" cy="140" r="48" fill="#38bdf8" fill-opacity=".12" stroke="#a5f3fc" stroke-opacity=".6" stroke-width="2"/>
+  <path d="M900 140h260M1030 10v260M939 49l182 182M1121 49 939 231" stroke="#a5f3fc" stroke-opacity=".14" stroke-width="1"/>
+  <circle cx="1030" cy="140" r="8" fill="#5eead4"/>
+  <rect x="72" y="66" width="5" height="145" rx="3" fill="url(#line)"/>
+  <text x="104" y="126" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">AKHIL R</text>
+  <text x="106" y="164" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="2">AI &amp; DATA SCIENCE STUDENT</text>
+  <text x="106" y="201" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="19">Building Android apps · Web interfaces · System tools</text>
+  <path d="M104 226h250" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+</svg>
