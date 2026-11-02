@@ -4,11 +4,7 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/"><strong>OPEN THE INTERACTIVE PORTFOLIO ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="#featured-projects">EXPLORE THE PROJECTS ↓</a>
-</p>
+<p align="center"><a href="https://Akhil-2005-hub.github.io/Akhil-2005-hub/"><strong>OPEN THE INTERACTIVE PORTFOLIO ↗</strong></a></p>
 
 <h2 align="center">Hi, I'm Akhil 👋</h2>
 
