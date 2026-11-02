@@ -4,6 +4,8 @@
 
 <p align="center"><sub>PROBE DESCENT · NEURAL CORE SCAN · DATA FLOW</sub></p>
 
+<p align="center"><a href="https://akhil-2005-hub.github.io/Akhil-2005-hub/"><strong>OPEN THE INTERACTIVE 3D PORTFOLIO ↗</strong></a></p>
+
 <h2 align="center">Hi, I'm Akhil 👋</h2>
 
 <p align="center">B.Tech student in Artificial Intelligence and Data Science, interested in building practical software and learning through hands-on projects.</p>
